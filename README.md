@@ -1,4 +1,4 @@
-# DevSecOps Slides are here
+# DevSecOps talk Slides are here
 [What the Hell is security to the DevOps folks
 ](https://docs.google.com/presentation/d/1gVAHhkxRgviRPOf50_jGOAtvlG2jzh8Cj1GUOn9dTkc/edit?usp=sharing)
 
