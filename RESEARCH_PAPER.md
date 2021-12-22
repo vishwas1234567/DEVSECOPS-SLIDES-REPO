@@ -25,4 +25,8 @@ http://www.cs.uku.fi/research/publications/reports/A-2003-1/page152.pdf
 
 https://arxiv.org/abs/1804.04177
 
+https://www.cs.virginia.edu/~evans/pubs/ndss2016/
+
+https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf
+
 # **I will add some more papers here**
